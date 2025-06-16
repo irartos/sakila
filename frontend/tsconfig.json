@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "esnext",
+    "rootDir": "./src",
+    "outDir": "./dist",
+    "strict": true
+  }
+}
